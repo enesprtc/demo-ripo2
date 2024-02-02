@@ -1,5 +1,5 @@
-<<<This is demo-ripo2 !>>>
+This is demo-ripo2 !
 
-<<<This is branch2 !>>>
+This is branch2 !
 
-<<<Merging from Github..>>>
+Merging from Github..
